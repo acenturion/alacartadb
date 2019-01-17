@@ -1,4 +1,4 @@
-[{
+{
     "foods": [
         {
             "id": 1,
@@ -29,36 +29,4 @@
         "name": "Pizzeria Astral",
         "direction": "Velez Sarsfiled 4646 Munro"
     }
-},
-{
-    "foods": [
-        {
-            "id": 1,
-            "name": "Pizza muzzarella",
-            "precio": "400.00",
-            "category": "pizza"
-        },
-        {
-            "id": 2,
-            "name": "Milanesa napolitana",
-            "precio": "400.00",
-            "category": "Minutas"
-        },
-        {
-            "id": 3,
-            "name": "Vacio con guarnicion",
-            "precio": "400.00",
-            "category": "Parrilla"
-        },
-        {
-            "id": 4,
-            "name": "agua 500ml",
-            "precio": "400.00",
-            "category": "bebida"
-        }
-    ],
-    "profile": {
-        "name": "Parrilla el palito",
-        "direction": "Calle falsa 123"
-    }
-}]
+}
