@@ -1,38 +1,48 @@
 {
-    "foods": [
-        {
-            "id": 1,
-            "name": "Pizza muzzarella",
-            "precio": "120.00",
-            "category": "pizza"
-        },
-        {
-            "id": 2,
-            "name": "Pizza jamon y morrones",
-            "precio": "150.00",
-            "category": "pizza"
-        },
-        {
-            "id": 3,
-            "name": "Pizza napolita",
-            "precio": "200.00",
-            "category": "pizza"
-        },
-        {
-            "id": 4,
-            "name": "agua 500ml",
-            "precio": "60.00",
-            "category": "bebida"
-        },
-        {
-            "id": 5,
-            "name": "Empanadad de carne",
-            "precio": "40.00",
-            "category": "entrada"
-        }
-    ],
-    "profile": {
-        "name": "Pizzeria Astral",
-        "direction": "Velez Sarsfiled 4646 Munro"
+  "foods": [
+    {
+      "id": 1,
+      "name": "Pizza muzzarella",
+      "precio": "120.00",
+      "category": "pizza"
+    },
+    {
+      "id": 2,
+      "name": "Pizza jamon y morrones",
+      "precio": "150.00",
+      "category": "pizza"
+    },
+    {
+      "id": 3,
+      "name": "Pizza napolita",
+      "precio": "200.00",
+      "category": "pizza"
+    },
+    {
+      "id": 4,
+      "name": "agua 500ml",
+      "precio": "60.00",
+      "category": "bebida"
+    },
+    {
+      "id": 5,
+      "name": "Empanadad de carne",
+      "precio": "40.00",
+      "category": "entrada"
     }
+  ],
+  "profile": [
+    {
+      "name": "Pizzeria Astral",
+      "direction": "Velez Sarsfiled 4646 Munro"
+    },
+    {
+      "name": "Pizzeria Astral",
+      "direction": "Velez Sarsfiled 4646 Munro"
+    },
+    {
+      "name": "Pizzeria Astral",
+      "direction": "Velez Sarsfiled 4646 Munro"
+    }
+  ]
 }
