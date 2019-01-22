@@ -31,26 +31,31 @@
       "category": "entrada"
     }
   ],
-  "profile": [
+  "local": [
     {
       "name": "Pizzeria Astral",
-      "direction": "Velez Sarsfiled 4646 Munro"
+      "direction": "Velez Sarsfiled 4646 Munro",
+      "menu" : 1
     },
     {
       "name": "Pizzeria Astral",
-      "direction": "Velez Sarsfiled 4646 Munro"
+      "direction": "Velez Sarsfiled 4646 Munro",
+      "menu" : 2
     },
     {
       "name": "Pizzeria Astral",
-      "direction": "Velez Sarsfiled 4646 Munro"
+      "direction": "Velez Sarsfiled 4646 Munro",
+      "menu" : 3
     },
     {
       "name": "Pizzeria Astral",
-      "direction": "Velez Sarsfiled 4646 Munro"
+      "direction": "Velez Sarsfiled 4646 Munro",
+      "menu" : 1
     },
     {
       "name": "Pizzeria Astral",
-      "direction": "Velez Sarsfiled 4646 Munro"
+      "direction": "Velez Sarsfiled 4646 Munro",
+      "menu" : 1
     }
   ]
 }
